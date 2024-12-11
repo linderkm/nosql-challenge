@@ -1,5 +1,5 @@
 # nosql-challenge
-The code for this challenge is split into two files, 'NoSQL_setup.ipynb' and 'NoSQL_analysis.ipynb'. Work Part 1 and Part 2 is located in 'NoSQL_setup.ipynb', and work for PArt 3 is located in 'NoSQL_analysis.ipynb'. Resources used for this challenge are stored in folder 'Resources'.
+The code for this challenge is split into two files, 'NoSQL_setup.ipynb' and 'NoSQL_analysis.ipynb'. Work for Part 1 and Part 2 is located in 'NoSQL_setup.ipynb', and work for Part 3 is located in 'NoSQL_analysis.ipynb'. Resources used for this challenge are stored in folder 'Resources'.
 
 All sources referenced in code comments correspond to refernces listed below in this README. For example, reference (1) in code comments corresponds to source (1) in this README.
 
